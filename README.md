@@ -26,3 +26,5 @@ Número EC: 6?
 Gen rio arriba: TOMM40
 
 Gen rio abajo: APOC1
+
+### APP: Amyloid beta precursor protein 

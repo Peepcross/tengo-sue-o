@@ -11,10 +11,10 @@ Los genes relacionados con esta enfermedad son APOE, APP, PSEN1 Y PSEN2.
 
 ### APOE: Apolipoprotein E
 
-Tambien conocido como: AD2; LPG; APO-E; ApoE4; LDLCQ5
-Ubicado en: Cromosoma 19
-N° exones: 6
-Isoformas: a y b
+Tambien conocido como: AD2; LPG; APO-E; ApoE4; LDLCQ5.
+Ubicado en: Cromosoma 19.
+N° exones: 6.
+Isoformas: a y b.
 Tipo de proteina codificada: Apoproteina mayor del quilomicron. Se une a receptores especificos del higado y su periferia y es esencial en el catabolismo normal de componentes de lipoproteinas ricas en trigliceridos.
 Número EC: 6?
 Gen rio arriba: TOMM40

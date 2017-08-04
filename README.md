@@ -1,10 +1,10 @@
 #Laboratorio 1: Enfermedades genéticas y genes 
 ---
 ##Alzheimer's disease 
---
+
 Esta enfermedad es causada por la mutacion de un gen que conlleva al degeneramiento del pensamiento la memoria y el lenguaje. 
 Aquellos que padezcan esta demencia tendran problemas para recordar eventos recientes y para reconocer a sus seres queridos. 
---
+
 Los genes relacionados con esta enfermedad son APOE, APP, PSEN1 Y PSEN2.
 --
 ###APOE: Apolipoprotein E

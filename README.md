@@ -28,3 +28,11 @@ Gen rio arriba: TOMM40
 Gen rio abajo: APOC1
 
 ### APP: Amyloid beta precursor protein 
+
+Tambien conocido como: AAA; AD1; PN2; ABPP; APPI; CVAP; ABETA; PN-II; preA4; CTFgamma
+
+Ubicado en: Cromosoma 21
+
+N° exones: 20
+
+Isoformas: 

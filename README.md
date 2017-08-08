@@ -52,7 +52,7 @@ Ruta metábolica del alzheimer. Degeneracion neurologica.
 
 ![Figura 1: ruta del alzheimer](http://www.kegg.jp/tmp/mark_pathway150221032784681/hsa05010.png)
 
-
+Entry number: 348
 
 
 

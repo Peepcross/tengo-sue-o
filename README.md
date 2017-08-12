@@ -54,6 +54,4 @@ Ruta metábolica del alzheimer. Degeneracion neurologica.
 
 Entry number: 348
 
-
-
-KEGG 
+El gen APOE se encuentra en las siguientes bases de datos: REACTOME, KEGG, NCBI gene database,  

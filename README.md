@@ -54,4 +54,10 @@ Ruta metábolica del alzheimer. Degeneracion neurologica.
 
 Entry number: 348
 
-El gen APOE se encuentra en las siguientes bases de datos: REACTOME, KEGG, NCBI gene database,  
+Bases de datos alternas junto a los numeros de identificacion respectivos de Apoe.
+
+REACTOME (R-HSA-174646), HumanCyc(HS05352), NCBI gene database(348).
+
+
+
+

@@ -69,7 +69,7 @@ Bases de datos alternas junto a los numeros de identificacion respectivos de Apo
 
 REACTOME (R-HSA-174646), HumanCyc(HS05352), NCBI gene database(348).
 
-![Figura 1: ruta del alzheimer](http://www.kegg.jp/tmp/mark_pathway150221032784681/hsa05010.png)
+![Figura 1: ruta del alzheimer](https://github.com/Peepcross/tengo-sue-o/blob/master/hsa05010.png)
 
 ¿Este gen esta involucrado en otras rutas metabolicas? ¿que sinifican los cuadros verdes en la imagen? ¿Con que rutas se cruza?
 

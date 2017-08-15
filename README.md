@@ -199,6 +199,38 @@ end;
 
 ![Figura 2: alerta en PubMed](https://github.com/Peepcross/tengo-sue-o/blob/master/check%20that%20out.png)
 
+![Figura 3: alerta en Nature](https://github.com/Peepcross/tengo-sue-o/blob/master/jaja.png)
+
+### Google scholar 
+
+¿Son los resultados distintos al buscar usando comillas o no?
+
+Efectivamente lo son.
+
+¿Cambiaron estos resultados tambien al usar *?
+
+Si, ahora se destaca en los resultados una palabra mas ademas de las buscadas.
+
+¿Cual es la diferencia entre agregar un rango y no hacerlo?
+
+Aparecen documentos con unidades mas especificas al buscar con rangos.
+
+¿Al buscar "human microbiome" filetype:pdf que puede encontrarse por especificar el archivo?
+
+La gran mayoria de los resultados van a ser del tipo de archivo especificado de esa forma.
+
+¿Como cambian los resultados de busqueda al agregar + o -?
+
+Al agregar + los resultados prefieren al termino escrito despues del mismo. Al agregar un - los resultados preferidos son los que no contengan el termino escrito despues del -.
+
+¿Cual es la diferencia de resultados al colocar OR y al colocar AND?
+
+Cuando se añade un OR los resultados pueden incluir un termino u otro, encambio al agregar un AND los resultados van a tener ambos terminos puestos.
+
+
+
+
+
 
 
 
